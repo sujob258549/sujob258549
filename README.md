@@ -3,10 +3,10 @@
 <h3 align="center">I am frontend developer</h3>
  <img src="https://i.ibb.co/zmqH4q3/1.png" alt="" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/sujob258549&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/sujob258549" /> </p>
-- 🔭 I’m currently working on Nexj js project 
-- 🌱 I’m currently learning Next js  
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about I am haily working man 
+- 🔭 I’m currently working on Nexj js project </br>
+- 🌱 I’m currently learning Next js  </br>
+- 👯 I’m looking to collaborate on GitHub </br>
+- 💬 Ask me about I am haily working man </br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/sujob258549&theme=" alt="https://github.com/sujob258549" /></a> </p>
 
