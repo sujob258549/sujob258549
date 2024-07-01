@@ -30,80 +30,49 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
-
-     <section id="portfolio">
-            <div className="container mx-auto">
-                <h1 className="text-2xl md:text-4xl md:w-96 mx-auto lg:text-5xl font-bold text-center font-frank mt-10 md:mt-16">
-                    Portfolio
-                </h1>
-                <img
-                    className="mx-auto pt-5 pb-5 md:pb-16"
-                    src="https://sujob258549.github.io/silverhok/img/icon.png"
-                    alt="Portfolio Icon"
-                />
-                <Tabs>
-                    <div className="flex justify-center text-xl font-ebground text-black">
-                        <TabList>
-                            <Tab>MERN Stack Project</Tab>
-                            <Tab>Frontend Project</Tab>
-                            <Tab>Web Design</Tab>
-                        </TabList>
-                    </div>
-
-                    <div className="container px-6 py-10 mx-auto">
-                        <TabPanel>
-                            <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
-                                <a href="https://alternative-product-11.web.app/" target="_blank" rel="noopener noreferrer">
-                                    <div
-                                        className="relative overflow-hidden bg-cover object-cover rounded-lg cursor-pointer h-80 group"
-                                        style={{ backgroundImage: "url('https://cdn.corporatefinanceinstitute.com/assets/substitute-products.jpeg')" }}
-                                    >
-                                        <div className="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
-                                            <FaExternalLinkAlt className="text-4xl text-white text-center mx-auto" />
-                                            <h2 className="mt-4 text-center text-xl font-semibold text-white capitalize">Alternative Product</h2>
-                                            <p className="mt-2 text-center text-lg tracking-wider text-blue-400 uppercase">Visit This Website</p>
-                                        </div>
-                                    </div>
-                                </a>
-                                <a href="https://online-shop12-7b3e8.web.app" target="_blank" rel="noopener noreferrer">
-                                    <div
-                                        className="relative overflow-hidden bg-cover object-cover rounded-lg cursor-pointer h-80 group"
-                                        style={{ backgroundImage: "url('https://as1.ftcdn.net/v2/jpg/04/62/71/58/1000_F_462715816_YK9bEILfUhAxSFayaAXk8W8ZpO1OvAru.jpg')" }}
-                                    >
-                                        <div className="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
-                                            <FaExternalLinkAlt className="text-4xl text-white text-center mx-auto" />
-                                            <h2 className="mt-4 text-center text-xl font-semibold text-white capitalize">Delivery Website</h2>
-                                            <p className="mt-2 text-center text-lg tracking-wider text-blue-400 uppercase">Visit This Website</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </TabPanel>
-
-                        <TabPanel>
-                            <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
-                                <a href="https://prickly-feast123.surge.sh/Listed" target="_blank" rel="noopener noreferrer">
-                                    <div
-                                        className="relative overflow-hidden bg-cover object-cover rounded-lg cursor-pointer h-80 group"
-                                        style={{ backgroundImage: "url('https://via.placeholder.com/400')" }}
-                                    >
-                                        <div className="flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100">
-                                            <FaExternalLinkAlt className="text-4xl text-white text-center mx-auto" />
-                                            <h2 className="mt-4 text-center text-xl font-semibold text-white capitalize">Frontend Project</h2>
-                                            <p className="mt-2 text-center text-lg tracking-wider text-blue-400 uppercase">Visit This Website</p>
-                                        </div>
-                                    </div>
-                                </a>
-                            </div>
-                        </TabPanel>
-                        
-                        <TabPanel>
-                            <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
-                                {/* Add web design projects here */}
-                            </div>
-                        </TabPanel>
-                    </div>
-                </Tabs>
+ <section id="portfolio">
+        <div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
+            <h1 style="text-align: center; font-size: 2em; margin-top: 40px;">Portfolio</h1>
+            <img src="https://sujob258549.github.io/silverhok/img/icon.png" alt="Portfolio Icon" style="display: block; margin: 20px auto;">
+            <div style="display: flex; justify-content: center; margin-bottom: 20px;">
+                <button style="padding: 10px 20px; margin: 0 5px; border: none; background-color: #f1f1f1; cursor: pointer;" onclick="openTab('mern')">MERN Stack Project</button>
+                <button style="padding: 10px 20px; margin: 0 5px; border: none; background-color: #f1f1f1; cursor: pointer;" onclick="openTab('frontend')">Frontend Project</button>
+                <button style="padding: 10px 20px; margin: 0 5px; border: none; background-color: #f1f1f1; cursor: pointer;" onclick="openTab('webdesign')">Web Design</button>
             </div>
-        </section>
+            <div id="mern" style="display: block;">
+                <div style="position: relative; overflow: hidden; height: 200px; margin-bottom: 20px; border-radius: 8px; cursor: pointer;">
+                    <a href="https://alternative-product-11.web.app/" target="_blank">
+                        <img src="https://cdn.corporatefinanceinstitute.com/assets/substitute-products.jpeg" alt="Alternative Product" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; opacity: 0; transition: opacity 0.5s;">
+                            <h2>Alternative Product</h2>
+                            <p>Visit This Website</p>
+                        </div>
+                    </a>
+                </div>
+                <div style="position: relative; overflow: hidden; height: 200px; margin-bottom: 20px; border-radius: 8px; cursor: pointer;">
+                    <a href="https://online-shop12-7b3e8.web.app" target="_blank">
+                        <img src="https://as1.ftcdn.net/v2/jpg/04/62/71/58/1000_F_462715816_YK9bEILfUhAxSFayaAXk8W8ZpO1OvAru.jpg" alt="Delivery Website" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; opacity: 0; transition: opacity 0.5s;">
+                            <h2>Delivery Website</h2>
+                            <p>Visit This Website</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div id="frontend" style="display: none;">
+                <div style="position: relative; overflow: hidden; height: 200px; margin-bottom: 20px; border-radius: 8px; cursor: pointer;">
+                    <a href="https://prickly-feast123.surge.sh/Listed" target="_blank">
+                        <img src="https://via.placeholder.com/400" alt="Frontend Project" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; opacity: 0; transition: opacity 0.5s;">
+                            <h2>Frontend Project</h2>
+                            <p>Visit This Website</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div id="webdesign" style="display: none;">
+                <!-- Add web design projects here -->
+            </div>
+        </div>
+    </section>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
