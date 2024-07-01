@@ -30,49 +30,5 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
- <section id="portfolio">
-        <div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
-            <h1 style="text-align: center; font-size: 2em; margin-top: 40px;">Portfolio</h1>
-            <img src="https://sujob258549.github.io/silverhok/img/icon.png" alt="Portfolio Icon" style="display: block; margin: 20px auto;">
-            <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-                <button style="padding: 10px 20px; margin: 0 5px; border: none; background-color: #f1f1f1; cursor: pointer;" onclick="openTab('mern')">MERN Stack Project</button>
-                <button style="padding: 10px 20px; margin: 0 5px; border: none; background-color: #f1f1f1; cursor: pointer;" onclick="openTab('frontend')">Frontend Project</button>
-                <button style="padding: 10px 20px; margin: 0 5px; border: none; background-color: #f1f1f1; cursor: pointer;" onclick="openTab('webdesign')">Web Design</button>
-            </div>
-            <div id="mern" style="display: block;">
-                <div style="position: relative; overflow: hidden; height: 200px; margin-bottom: 20px; border-radius: 8px; cursor: pointer;">
-                    <a href="https://alternative-product-11.web.app/" target="_blank">
-                        <img src="https://cdn.corporatefinanceinstitute.com/assets/substitute-products.jpeg" alt="Alternative Product" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
-                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; opacity: 0; transition: opacity 0.5s;">
-                            <h2>Alternative Product</h2>
-                            <p>Visit This Website</p>
-                        </div>
-                    </a>
-                </div>
-                <div style="position: relative; overflow: hidden; height: 200px; margin-bottom: 20px; border-radius: 8px; cursor: pointer;">
-                    <a href="https://online-shop12-7b3e8.web.app" target="_blank">
-                        <img src="https://as1.ftcdn.net/v2/jpg/04/62/71/58/1000_F_462715816_YK9bEILfUhAxSFayaAXk8W8ZpO1OvAru.jpg" alt="Delivery Website" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
-                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; opacity: 0; transition: opacity 0.5s;">
-                            <h2>Delivery Website</h2>
-                            <p>Visit This Website</p>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div id="frontend" style="display: none;">
-                <div style="position: relative; overflow: hidden; height: 200px; margin-bottom: 20px; border-radius: 8px; cursor: pointer;">
-                    <a href="https://prickly-feast123.surge.sh/Listed" target="_blank">
-                        <img src="https://via.placeholder.com/400" alt="Frontend Project" style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
-                        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; opacity: 0; transition: opacity 0.5s;">
-                            <h2>Frontend Project</h2>
-                            <p>Visit This Website</p>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div id="webdesign" style="display: none;">
-                <!-- Add web design projects here -->
-            </div>
-        </div>
-    </section>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
