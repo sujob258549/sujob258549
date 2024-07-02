@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Md Sujon Mia</h1>
 <h3 align="center">I am frontend developer</h3>
  <img src="https://i.ibb.co/zmqH4q3/1.png" alt="" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/sujob258549&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/sujob258549" /> </p>
-
-<div align="center">>
+<p align="left"></p>
+<div align="center">
   <h3> About me</h3>
  <img src="https://sujob258549.github.io/silverhok/img/icon.png" alt="">
 </div>
