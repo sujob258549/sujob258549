@@ -9,8 +9,8 @@
 </div>
  <p>I am a highly skilled frontend web developer designing, developing, and maintaining the front-end of web applications. Achieved measurable success in design dynamic, complex and interactive user experience. Highly experienced and proficient in React JS.</p>
 
- ![Your Repository's Commit Count](https://badges.pufler.dev/commits/monthly/<sujob258549/sujob258549>/<your-repo>)
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<sujob258549/sujob258549>)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 
 - 🔭 I’m currently working on Nexj js project </br>
