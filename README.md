@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/sujob258549&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/sujob258549" /> </p>
 
  <h3 align="center"> About me</h3>
- <img src="https://sujob258549.github.io/silverhok/img/icon.png" alt="">
+ <img align="center" src="https://sujob258549.github.io/silverhok/img/icon.png" alt="">
  <p>I am a highly skilled frontend web developer designing, developing, and maintaining the front-end of web applications. Achieved measurable success in design dynamic, complex and interactive user experience. Highly experienced and proficient in React JS.</p>
 - 🔭 I’m currently working on Nexj js project </br>
 - 🌱 I’m currently learning Next js  </br>
