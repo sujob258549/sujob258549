@@ -8,6 +8,9 @@
  <img src="https://sujob258549.github.io/silverhok/img/icon.png" alt="">
 </div>
  <p>I am a highly skilled frontend web developer designing, developing, and maintaining the front-end of web applications. Achieved measurable success in design dynamic, complex and interactive user experience. Highly experienced and proficient in React JS.</p>
+
+ ![Your Repository's Commit Count](https://badges.pufler.dev/commits/monthly/<your-username>/<your-repo>)
+
 - 🔭 I’m currently working on Nexj js project </br>
 - 🌱 I’m currently learning Next js  </br>
 - 👯 I’m looking to collaborate on GitHub </br>
