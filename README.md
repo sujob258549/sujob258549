@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Md Sujon Mia</h1>
-<h3 align="center">I am frontend developer</h3>
+<h3 align="center">I am web developer</h3>
  <img src="https://i.ibb.co/zmqH4q3/1.png" alt="" />
 <p align="left"></p>
 <div align="center">
