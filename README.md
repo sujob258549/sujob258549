@@ -20,7 +20,8 @@
 
 
 
- ![Leo's github stats](https://github-readme-stats.vercel.app/api?sujob258549=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujob258549&show_icons=true&theme=dracula&hide=stars,issues)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
