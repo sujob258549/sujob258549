@@ -1,9 +1,10 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Md Sujon Mia....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Md+Sujon+Mia....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
 <h3 align="center">I am web developer</h3>
  <img src="https://i.ibb.co/zmqH4q3/1.png" alt="" />
 <p align="left"></p>
