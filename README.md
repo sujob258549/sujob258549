@@ -38,6 +38,13 @@
 </p>
 
 
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <img width="600px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujob258549&theme=2077" alt="Profile Summary">
+    </td>
+  </tr>
+</table>
 
 
 
