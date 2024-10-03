@@ -18,9 +18,6 @@
 <!---Open souced------->
 
 <br>
-<div align="center">
-  <img src="dev-card.png" alt="Dev Card">
-</div>
 
 <br>
 
