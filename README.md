@@ -1,4 +1,4 @@
-<img src="https://png.pngtree.com/thumb_back/fh260/background/20220219/pngtree-welcome-lettering-banner-image_1004430.jpg" width="100%" />
+<img src="https://png.pngtree.com/thumb_back/fh260/background/20220219/pngtree-welcome-lettering-banner-image_1004430.jpg" width="100%" height="150px" />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Md+Sujon+Mia....;Nice+to+meet+you!&center=true&size=30">
