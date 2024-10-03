@@ -1,4 +1,4 @@
-<img src="https://png.pngtree.com/thumb_back/fh260/background/20220219/pngtree-welcome-lettering-banner-image_1004430.jpg" width="100%" height="150px" />
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hello,+There!+👋;This+is+Md+Sujon+Mia....;Nice+to+meet+you!&center=true&size=30">
@@ -13,6 +13,23 @@
  <img src="https://sujob258549.github.io/silverhok/img/icon.png" alt="">
 </div>
  <p>I am a highly skilled frontend web developer designing, developing, and maintaining the front-end of web applications. Achieved measurable success in design dynamic, complex and interactive user experience. Highly experienced and proficient in React JS.</p>
+
+
+<!---Open souced>
+
+<div align="center">
+  <!-- <h1 align="center">🏆 Trophies</h1> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+
+<div align="center">
+  <h1 align="center">Skills 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
+</div>
+
+
+
 
 <!-- activiti--->
 <h2 align="center">⚡ Stats ⚡</h2>
