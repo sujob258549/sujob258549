@@ -15,9 +15,17 @@
  <p>I am a highly skilled frontend web developer designing, developing, and maintaining the front-end of web applications. Achieved measurable success in design dynamic, complex and interactive user experience. Highly experienced and proficient in React JS.</p>
 
 
-<!---Open souced>
+<!---Open souced------->
 
+</div>
+<br>
 <div align="center">
+  <img src="dev-card.png" alt="Dev Card">
+</div>
+
+<br>
+
+
   <!-- <h1 align="center">🏆 Trophies</h1> -->
   <img src="https://github-profile-trophy.vercel.app/?username=yashksaini-coder&column=-1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
 </div>
@@ -27,7 +35,6 @@
 <div align="center">
   <h1 align="center">Skills 🛠️<img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"></h1>
 </div>
-
 
 
 
