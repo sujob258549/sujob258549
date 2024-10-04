@@ -21,16 +21,15 @@
 </div>
  <p>I am a highly skilled frontend web developer designing, developing, and maintaining the front-end of web applications. Achieved measurable success in design dynamic, complex and interactive user experience. Highly experienced and proficient in React JS.</p>
 
-
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 #### 🏊‍♂️ Weekly Development Breakdown
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
-  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
+  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg" alt="Wakatime stats for sujob258549">
 </picture>
-
 
 <!---Open souced------->
 
