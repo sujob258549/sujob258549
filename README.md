@@ -23,13 +23,8 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-#### 🏊‍♂️ Weekly Development Breakdown
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sujob258549&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sujob258549&theme=light">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sujob258549" alt="Wakatime stats for sujob258549">
-</picture>
+
 
 
 <!---Open souced------->
