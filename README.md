@@ -193,9 +193,9 @@
 - 👯 I’m looking to collaborate on GitHub </br>
 - 💬 Ask me about I am haily working man </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/sujob258549&theme=" alt="https://github.com/sujob258549" /></a> </p>
 
-
+><br><br><br><br><br><br>
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 <div>
 
 <!--END_SECTION:activity-->
