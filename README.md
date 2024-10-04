@@ -6,6 +6,13 @@
 </h1>
 
 <h3 align="center">I am web developer</h3>
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend + Developer +👋;React + Js + Developer +; Mern + stack + developer ; Web + Disigner!&center=true&size=30">
+  </a>
+</h1>
+
  <img src="https://i.ibb.co/zmqH4q3/1.png" alt="" />
 <p align="left"></p>
 <div align="center">
