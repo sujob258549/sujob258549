@@ -208,11 +208,24 @@
 
 <div align="center">
     <p align="center" >
-    <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/night.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/day.svg" />
-      <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/yashksaini-coder/yashksaini-coder/output-3d-contrib/day.svg" />
-    </picture>
+    <div align="center">
+    <a href="https://www.facebook.com/profile.php?id=100088142062918" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://github.com/sujob258549" target="_blank">
+        <img src="https://img.shields.io/badge/Github-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/sujon25" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sujon258549@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="tel:01790876529" target="_blank">
+        <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+</div>
+
   </p>
 </div>
 
