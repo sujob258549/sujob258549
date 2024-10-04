@@ -203,12 +203,9 @@
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sujon258549" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/sujob258549" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sujon258549" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sujon258549" height="30" width="40" /></a><a href="https://fb.com/https://scontent.fspd3-1.fna.fbcdn.net/v/t39.30808-6/415965506_325113750436691_7047831159949408538_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Uh1lsrSf1xwQ7kNvgFZV_oi&_nc_ht=scontent.fspd3-1.fna&cb_e2o_trans=q&oh=00_AYDqVfdqmXetaHKklAc9v3HVrxj7jI_r_D8bokvqdWpBZA&oe=6688B0F1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://scontent.fspd3-1.fna.fbcdn.net/v/t39.30808-6/415965506_325113750436691_7047831159949408538_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Uh1lsrSf1xwQ7kNvgFZV_oi&_nc_ht=scontent.fspd3-1.fna&cb_e2o_trans=q&oh=00_AYDqVfdqmXetaHKklAc9v3HVrxj7jI_r_D8bokvqdWpBZA&oe=6688B0F1" height="30" width="40" /></a></p>
-
-<div align="center">
-    <p align="center" >
-    <div align="center">
+<div align="">
+    <p align="" >
+    <div align="">
     <a href="https://www.facebook.com/profile.php?id=100088142062918" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
