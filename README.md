@@ -101,56 +101,67 @@
 </div>
 
 
-
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+      <a href="#tech">
+       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
       </a>
-      <br>Go
+      <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      <a href="#tech">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
       </a>
-      <br>Python
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+      <a href="#tech">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
       </a>
-      <br>Jsonnet
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
       </a>
-      <br>TypeScript
+      <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="#tech">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
       </a>
-      <br>Kubernetes
+      <br>HTML
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
       </a>
-      <br>Docker
+      <br>React
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
       </a>
-      <br>Debian
+      <br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
       </a>
-      <br>Grafana
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+      </a>
+      <br>Firebase
     </td>
   </tr>
 </table>
@@ -167,19 +178,13 @@
 
 
 
-
-
 <p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+
+
+
+
+
+
 </p>
 
 
