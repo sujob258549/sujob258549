@@ -26,10 +26,11 @@
 #### 🏊‍♂️ Weekly Development Breakdown
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg">
-  <img src="https://x.tw93.fun/images/wakatime_weekly_language_stats.svg" alt="Wakatime stats for sujob258549">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sujob258549&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sujob258549&theme=light">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sujob258549" alt="Wakatime stats for sujob258549">
 </picture>
+
 
 <!---Open souced------->
 
