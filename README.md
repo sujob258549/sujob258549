@@ -91,8 +91,8 @@
 
 
 
-
-
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+<br><br>
 
 
 
@@ -182,7 +182,7 @@
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-<br><br>
+<br>
 
 </p>
 
@@ -192,8 +192,7 @@
 - 👯 I’m looking to collaborate on GitHub </br>
 - 💬 Ask me about I am haily working man </br>
 
-
-><br><br><br>
+<br><br>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 <div>
 
